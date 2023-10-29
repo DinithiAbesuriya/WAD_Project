@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+button[name="btn_cart"]{
+	    background-color:#981F69;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: left;
+	
+
+
+}
+button[name="btn_cancel"]
+{
+	background-color:#8424CA;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: left;
+	
+}
